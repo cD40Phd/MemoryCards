@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MemoryGameWinFormsApp/1.0.0": {
+        "dependencies": {
+          "MemoryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MemoryGameWinFormsApp.dll": {}
+        },
+        "resources": {
+          "ru/MemoryGameWinFormsApp.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "MemoryLibrary/1.0.0": {
+        "runtime": {
+          "MemoryLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MemoryGameWinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MemoryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
